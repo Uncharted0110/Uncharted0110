@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya KL</h1>
-<h3 align="center">A passionate Graphics Programmer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/AdityaKL2" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaKL2?logo=twitter&style=for-the-badge" alt="AdityaKL2" /></a> </p>
 

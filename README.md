@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/AdityaKL2" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaKL2?logo=twitter&style=for-the-badge" alt="AdityaKL2" /></a> </p>
 
-- 🌱 I’m currently learning **Directx11**
-
-- 👯 I’m looking to collaborate on **Computer Graphics and others**
-
-- 🤝 I’m looking for help with **Directx11, Opengl, and other Computer Graphics stuff....etc**
-
 - 📫 How to reach me **adityakl1509@gmail.com**
 
 - ⚡ Fun fact **YUMMERS**

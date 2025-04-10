@@ -1,4 +1,4 @@
-![Banner Image](https://your-image-url.com/banner.jpg)
+![Custom Banner](assets/images/newbanner.gif)
 
 <h1 align="center">Hello World 👾, Welcome to the Uncharted Zone</h1>
 

@@ -1,6 +1,6 @@
 <!-- Full-width GIF Banner -->
 <p align="center">
-  <img src="assets/images/ban2.gif" alt="Custom Banner" width="100%" style="clip-path: inset(10% 0 10% 0);" />
+  <img src="assets/images/ban3.gif" alt="Custom Banner" width="100%" style="clip-path: inset(10% 0 10% 0);" />
 </p>
 
 

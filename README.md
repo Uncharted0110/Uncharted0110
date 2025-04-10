@@ -1,7 +1,8 @@
 <!-- Full-width GIF Banner -->
 <p align="center">
-  <img src="assets/images/banneWide.gif" alt="Custom Banner" width="100%" />
+  <img src="assets/images/ban1.gif" alt="Custom Banner" width="100%" style="clip-path: inset(10% 0 10% 0);" />
 </p>
+
 
 <h1 align="center">Hi, I'm Aditya K 🤖</h1>
 

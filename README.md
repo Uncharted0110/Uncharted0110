@@ -3,7 +3,7 @@
   <img src="assets/images/banneWide.gif" alt="Custom Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Aditya K L 👾</h1>
+<h1 align="center">Hi, I'm Aditya K 🤖</h1>
 
 ---
 
@@ -17,9 +17,11 @@
 
 ### 👋 About Me
 
-Hey, I’m Aditya – an undergrad student - developer who spends most of my time breaking things just to fix them. If something isn’t working, you can bet I’ll keep prying at it until I make it bend to my will. When I'm not coding, I’m either playing football, htting the gym, listening to music, or contemplating whether shawarma is the solution to all of life’s problems (it usually is). 
+Hey, I’m Aditya – an undergrad student - A developer who spends most of his time building things, breaking them, then building them back slightly better (hopefully..) If something isn’t working, you can bet I’ll keep prying at it until I make it bend to my will. When I'm not coding, I’m either playing video games, htting the gym, listening to music, watching football or contemplating whether shawarma is the solution to all of life’s problems (it usually is). And when I’m not doing any of that, I’m probably lost in the world of Computer Graphics, trying to render a scene — because who needs reality, when you can have a glossy teapot casting soft shadows on a perfectly ray-traced checkerboard floor!
 
-Feel free to explore my work below, and don’t hesitate to reach out if you want to chat about code, tech, or anything else!
+Below are a bunch of projects from my dev journey so far, some finished, some half-baked, all part of the ride.
+
+Feel free to explore my work, and don’t shy away from reaching out if you want to chat about code, tech, or anything else!
 
 ---
 
@@ -41,6 +43,7 @@ Feel free to explore my work below, and don’t hesitate to reach out if you wan
   <img src="https://img.shields.io/badge/-DirectX-0078D4?style=flat&logo=microsoft&logoColor=white" alt="DirectX 11">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" >
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
@@ -52,6 +55,13 @@ Feel free to explore my work below, and don’t hesitate to reach out if you wan
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/-GLFW-000000?style=flat&logo=glfw&logoColor=white" alt="GLFW">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" >
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" >
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" >
 </div>
 
 ---
@@ -72,7 +82,7 @@ Feel free to explore my work below, and don’t hesitate to reach out if you wan
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uncharted0110&repo=BingeSwipe&theme=midnight-purple" width="33%" style="margin-bottom: 10px;" />
   </a>
   <a href="https://github.com/Uncharted0110/TheRayTracerChallenge" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uncharted0110&repo=TheRayTracerChallenge&theme=midnight-purple" width="30%" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uncharted0110&repo=TheRayTracerChallenge&theme=midnight-purple" width="28%" style="margin-bottom: 10px;" />
   </a>
   <a href="https://github.com/Amoghk04/UniVerse" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amoghk04&repo=UniVerse&theme=midnight-purple" width="33%" style="margin-bottom: 10px;" />

@@ -105,5 +105,5 @@ Feel free to explore my work, and don’t shy away from reaching out if you want
 ---
 
 <p align="center">
-  <i>""</i>
+  <i>"I am not procrastinating, I am just doing side quests."</i>
 </p>

@@ -8,7 +8,7 @@
 
 ---
 
-### 💬 Quote I live by
+### 💬 Monday Morning Motivation 
 
 <p align="center">
   > _"I code, therefore I am. But sometimes, I code, therefore I break things."_
@@ -16,7 +16,7 @@
 
 ---
 
-### 👋 About Me
+### 👋 Who am I
 
 Hey, I’m Aditya – an undergrad student - A developer who spends most of his time building things, breaking them, then building them back slightly better (hopefully..) If something isn’t working, you can bet I’ll keep prying at it until I make it bend to my will. When I'm not coding, I’m either playing video games, htting the gym, listening to music, watching football or contemplating whether shawarma is the solution to all of life’s problems (it usually is). And when I’m not doing any of that, I’m probably lost in the world of Computer Graphics, trying to render a scene — because who needs reality, when you can have a glossy teapot casting soft shadows on a perfectly ray-traced checkerboard floor!
 
@@ -26,7 +26,7 @@ Feel free to explore my work, and don’t shy away from reaching out if you want
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ What am I capable of doing
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
@@ -67,7 +67,7 @@ Feel free to explore my work, and don’t shy away from reaching out if you want
 
 ---
 
-### 📊 GitHub Stats
+### 📊 What have I done (on record)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uncharted0110&layout=compact&theme=midnight-purple" width="31.5%" style="margin-right: 2%;" />
@@ -92,7 +92,7 @@ Feel free to explore my work, and don’t shy away from reaching out if you want
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 How to contact me
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aditya-kl-92497b312/" target="_blank"> 
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
@@ -105,5 +105,5 @@ Feel free to explore my work, and don’t shy away from reaching out if you want
 ---
 
 <p align="center">
-  <i>"Still figuring it out... one bug, one breakpoint, and one shawarma at a time."</i>
+  <i>""</i>
 </p>

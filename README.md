@@ -101,5 +101,3 @@ Feel free to explore my work, and don’t shy away from reaching out if you want
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
   </a> 
 </p>
-
----

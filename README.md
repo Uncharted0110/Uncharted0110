@@ -25,7 +25,7 @@ Below are a bunch of projects from my dev journey so far, some finished, some ha
 Feel free to explore my work, and don’t shy away from reaching out if you want to chat about code, tech, or anything else!
 
 You can check out my [Portfolio](https://uncharted0110.github.io/Porto/) 
-(P.S. press 'c' once it loads...I'll fix the bug when I am free 🙂)
+(P.S. press 'c' once it loads...I'll fix the bug soon 🙂)
 
 ---
 
